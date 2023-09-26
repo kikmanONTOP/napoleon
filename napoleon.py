@@ -25,7 +25,7 @@ async def on_ready():
 ██║ ╚████║██║  ██║██║     ╚██████╔╝███████╗███████╗╚██████╔╝██║ ╚████║
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
                                                                                                                                                                                                   
-          made with love by https:github.com/kikmanONTOP:3
+          made with love by https://github.com/kikmanONTOP/napoleon:3
           BOT IS READY AS {bot.user}     
 ''')
 
